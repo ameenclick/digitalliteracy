@@ -1,0 +1,14 @@
+ol.list-group > li.list-group-item > a {
+    text-decoration:none;
+    
+}
+
+ol.list-group > li.list-group-item > a:hover {
+    background-color: yellow;
+    border-radius: 50px;
+   padding: 15px; 
+}
+
+.text-justify{
+    text-align: justify;
+}
